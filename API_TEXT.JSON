@@ -1,5 +1,5 @@
 {
-    "_id" : ObjectId("5fdb5713fe1c495cb35a4c4a"),
+ 
     "intents" : [ 
         {
             "tag" : "greeting",
